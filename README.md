@@ -17,4 +17,6 @@ Upstream update 7.
 
 Update upstream 8.
 
+Update upstream 8.5.
+
 Update upstream 9.
