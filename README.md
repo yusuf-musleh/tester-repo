@@ -21,3 +21,5 @@ Update upstream 8.5.
 
 Update upstream 9.
 Update fork cool.8
+
+Update fork cool.8.2
